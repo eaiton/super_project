@@ -15,6 +15,10 @@ We need to plan stage 1 of this project. Stage 1 involves the following activiti
 3. Buy cat food
 4. Adopt a cat
 5. Buy cat collar
+6. Install a dog corner
+7. Adopt a puppy
+8. Walk dog
+9. Train dog to fetch
 
 Main branch change
 
