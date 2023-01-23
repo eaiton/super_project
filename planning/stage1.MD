@@ -11,5 +11,10 @@ We need to plan stage 1 of this project. Stage 1 involves the following activiti
 1. Install the counter tops
 1. Install the oven
 1. Install the fridge
+2. Install a corner for cat
+3. Buy cat food
+4. Adopt a cat
+5. Buy cat collar
 
 Main branch change
+
